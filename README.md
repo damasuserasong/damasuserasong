@@ -10,11 +10,11 @@ Welcome to my GitHub profile! I'm a software developer passionate about building
 </p>
 
 ### 🚀 About Me
-- 🔭 **Currently working on:** [Your Current Project Name](https://github.com)
+- 🔭 **Currently working on:** [SmartHostelManagementSystem](https://github.com)
 - 🌱 **Currently learning:** Cloud architecture, system design, and modern web frameworks
 - 💬 **Ask me about:** Web development, APIs, and problem-solving
 - 📫 **How to reach me:** [sankdamasus@gmail.com](mailto:sankdamasus@gmail.com)
-
+- 📍 **Locate me:** Wa, Ghana
 ### 🛠️ Tech Stack & Tools
 - **Languages:** JavaScript, TypeScript, Python, HTML/CSS
 - **Frameworks & Libraries:** React, Node.js, Next.js
