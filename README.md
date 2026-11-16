@@ -15,6 +15,12 @@ Welcome to my GitHub profile! I'm a software developer passionate about building
 - 💬 **Ask me about:** Web development, APIs, and problem-solving
 - 📫 **How to reach me:** [sankdamasus@gmail.com](mailto:sankdamasus@gmail.com)
 - 📍 **Locate me:** Wa, Ghana
+  
+- <p align="left">
+  <img src="https://vercel.app" alt="Damasus's GitHub stats" height="165" />
+  <img src="https://vercel.app" alt="Top Languages" height="165" />
+</p>
+
 ### 🛠️ Tech Stack & Tools
 - **Languages:** JavaScript, TypeScript, Python, HTML/CSS
 - **Frameworks & Libraries:** React, Node.js, Next.js
