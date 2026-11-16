@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I am Sankuba Damasus Erasong
 
 <a href="https://stardev.io/developers/damasuserasong"><img alt="Check out damasuserasong&apos;s profile on stardev.io" src="https://stardev.io/developers/damasuserasong/badge/languages/global.svg" /></a>
 
