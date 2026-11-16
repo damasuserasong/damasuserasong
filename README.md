@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+<a href="https://stardev.io/developers/damasuserasong"><img alt="Check out damasuserasong&apos;s profile on stardev.io" src="https://stardev.io/developers/damasuserasong/badge/languages/global.svg" /></a>
+
+
 <!--
 **damasuserasong/damasuserasong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
