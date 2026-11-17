@@ -1,43 +1,43 @@
-## Hi there 👋 I am Sankuba Damasus Erasong,
+<div align="center">
+  <img src="https://herokuapp.com" alt="Typing SVG" />
 
-Welcome to my GitHub profile! I'm a software developer passionate about building clean, practical applications and contributing to open-source projects.
+  <p>
+    <a href="https://linkedin.com"><img src="https://shields.io" /></a>
+    <a href="mailto:sankdamasus@gmail.com"><img src="https://shields.io" /></a>
+    <a href="https://stardev.io"><img src="https://shields.io" /></a>
+  </p>
+</div>
 
-### 🏆 Developer Recognition
-<p align="left">
-  <a href="https://stardev.io">
-    <img alt="Check out damasuserasong's profile on stardev.io" src="https://stardev.io/badge/languages/global.svg" />
-  </a>
-</p>
+---
 
 ### 🚀 About Me
-- 🔭 **Currently working on:** [SmartHostelManagementSystem](https://github.com)
-- 🌱 **Currently learning:** Cloud architecture, system design, and modern web frameworks
-- 💬 **Ask me about:** Web development, APIs, and problem-solving
-- 📫 **How to reach me:** [sankdamasus@gmail.com](mailto:sankdamasus@gmail.com)
-- 📍 **Locate me:** Wa, Ghana
+- 🔭 **Building:** **Smart Hostel Management System** & **Tieme Ndo** (multi-tenant SaaS with mobile money integration)
+- 🧠 **Exploring:** Cloud architecture, AI agents, data analytics, and scalable PostgreSQL workflows
+- 🌍 **Community:** Active in tech communities, open-source fellowships, and student leadership in Wa, Ghana
+- 💬 **Ask me about:** Next.js, Node.js, TypeScript, Python, APIs, and local-first AI apps
 
-### 🛠️ Tech Stack & Tools
-- **Languages:** JavaScript, TypeScript, Python, HTML/CSS
-- **Frameworks & Libraries:** React, Node.js, Next.js
-- **Tools & Platforms:** Git, GitHub, slack
+---
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://vercel.app" alt="Damasus's GitHub stats" />
+### 🛠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev" />
 </p>
 
+---
 
-<!--
-**damasuserasong/damasuserasong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📌 Featured Projects
 
-Here are some ideas to get you started:
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **[SmartHostelManagementSystem](https://github.com/damasuserasong)** | Automated hostel room allocation, billing, and management platform | `Next.js` `Node.js` `PostgreSQL` |
+| **[OfrendaAi](https://github.com)** | Local-first digital keepsake app turning recorded stories into structured memories | `TypeScript` `Whisper` `Gemma / Ollama` |
+| **[TradeSync](https://github.com)** | Pro trading journal and performance analytics dashboard | `JavaScript` `Analytics` |
+| **[Erasong Portfolio](https://github.com)** | Personal portfolio bridging software engineering, data analytics, and creative design | `Web` `UI/UX` |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 GitHub Activity
+<div align="center">
+  <img height="165" src="https://vercel.app" />
+  <img height="165" src="https://vercel.app" />
+</div>
